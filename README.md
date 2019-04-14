@@ -1,1 +1,3 @@
 # Monocular-Obstruction-Estimation-with-SLAM-and-CNN
+
+This software is purposed for the visually impaired. SLAM (simultaneous lacalization and mapping) is a widely researched algorithm in the field of robotics and self driving cars. We demonstrate the use of SLAM as a feature extraction technique for a convolutional neural network. The user wears a device with a single camera that processes the surroundings in real time and delivers auditory feedback of nearby obstructions to the user over an auxillary connection. The main components of this program are the SLAM algorithm, a convolutional neural network, and a text to speech engine. Contributors welcome. 
